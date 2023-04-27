@@ -14,3 +14,4 @@ def validar_telefone(telefone):
   
  
   
+# Validador termina aqui

@@ -20,3 +20,5 @@ function validar_telefone(telefone){
   // escreve seu código aqui
 
 }
+
+// Validador termina aqui
