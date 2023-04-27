@@ -1,16 +1,13 @@
-# Conjunto de REGEX para validação de entradas.
+import re
 
 def validar_email(email):
-  # escreva seu código aqui
-  
-def validar_cep(cep):
-  # escreva seu código aqui
-  
+    regex = r'^[^\s@]+@[^\s@]+\.[^\s@]+$'
+    return re.match(regex, email) is not None
+
 def validar_cpf(cpf):
-  # escreva seu código aqui
-  
+    regex = r'^\d{3}\.\d{3}\.\d{3}-\d{2}$'
+    return re.match(regex, cpf) is not None
+
 def validar_telefone(telefone):
-  # escreve seu código aqui
-  
- 
-  
+    regex = r'^\(\d{2}\) \d{4,5}-\d{4}$'
+    return re.match(regex, telefone) is not None
