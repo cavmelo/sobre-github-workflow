@@ -4,7 +4,7 @@ Neste trabalho, você e sua equipe (até três integrantes) deverão experimenta
 
 O roteiro para a execução do trabalho é apresentado a seguir:
 
-1. Realize o Fork deste repositório ou atualize o seu fork.
+1. Realize o Fork deste repositório ou atualize o seu fork. done
 2. Crie um __milestone__ para o desenvolvimento de validadores de entradas;
     - Associe o __milestone__ as issues criadas;
     - Apresente imagens que comprove a operação.
