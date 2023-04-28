@@ -1,4 +1,5 @@
 # Conjunto de REGEX para validação de entradas.
+import re
 
 def validar_email(email):
     """Valida se o email é válido usando regex."""

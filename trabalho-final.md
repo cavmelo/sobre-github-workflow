@@ -1,6 +1,10 @@
 # Trabalho Final
 
 Neste trabalho, você e sua equipe (até três integrantes) deverão experimentar com o github flow.
+## Link do nosso repositório: https://github.com/amoedogabriel/sobre-github-workflow
+
+### Aluno: 
+- :heavy_check_mark: Gabriel Amoêdo
 
 O roteiro para a execução do trabalho é apresentado a seguir:
 
@@ -12,6 +16,7 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 3. Crie issues para a implementação dos validadores, a partir da issue disponível no repositório.
     - Na issue "Desenvolver validador para entradas" tem a descrição do que precisa ser implementado;
     - Apresente imagens que comprove a criação das issues.
+    ![image](https://user-images.githubusercontent.com/44775324/235048710-6890700c-432c-4d59-b5c9-106a4769cc80.png)
 
 4. Crie a(s) __branch(es)__ para execução das tarefas
     - Instancie localmente a(s) __branch(es)__;
