@@ -7,6 +7,7 @@ function validar_email(email) {
 
 function validar_cep(cep) {
   var regex = /^[0-9]{5}-[0-9]{3}$/;
+  console.log("gerando um conflito...")
   return regex.test(cep);
 }
 
