@@ -1,9 +1,14 @@
 # Trabalho Final
 
-Link do nosso repositório: https://github.com/gabrielbastos1412/sobre-github-workflow
-Equipe: LAURA LIMA
-        GABRIEL BASTOS
-        EDUARDO ARAÚJO
+## Link do nosso repositório: https://github.com/gabrielbastos1412/sobre-github-workflow
+
+### Equipe: 
+- :heavy_check_mark: LAURA LIMA
+
+- :heavy_check_mark: GABRIEL BASTOS
+
+- :heavy_check_mark: EDUARDO ARAÚJO
+
 
 O roteiro para a execução do trabalho é apresentado a seguir:
 
