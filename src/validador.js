@@ -15,7 +15,11 @@ function validar_cpf(cpf) {
   return regex.test(cpf);
 }
 
-function validar_telefone(telefone) {
-  // escreve seu código aqui
-
+function validar_telefone(telefone){
+  let regex = "^[0-9]{2}-([0-9]{8}|[0-9]{9})";
+  if(regex.test(telefone)) {
+    return true
+  } else {
+    return false
+  }
 }
