@@ -18,6 +18,8 @@ O roteiro para a execução do trabalho é apresentado a seguir:
     - Implemente as soluções nos arquivos __validador.js__ e __validador.py__
     - Apresente imagens que comprove a operação.
 
+![Captura de tela de 2023-04-27 20-04-11](https://user-images.githubusercontent.com/44775324/235015706-3af885b0-eb53-410a-947f-b30993756667.png)
+
 5. Faça o __push__ dos commits para a(s) __branch(es)__ criadas e abra uma __pull request__
     - Na descrição da __pull request__, informe a issue que está sendo fechada usando #
     - Apresente imagens que comprove a operação.
