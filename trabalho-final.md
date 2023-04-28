@@ -51,3 +51,5 @@ O roteiro para a execução do trabalho é apresentado a seguir:
 
 8. Remova a(s) __branch(es)__ criadas tanto localmente quanto no github.
     - Apresente imagens que comprove a operação;
+![removendo](https://user-images.githubusercontent.com/75450592/235084259-89507396-b438-42a6-9727-0436aec101f2.png)
+
